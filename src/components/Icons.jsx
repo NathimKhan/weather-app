@@ -1,9 +1,9 @@
 import React from 'react';
-import windIcon from '/src/assets/wind.png';
-import humidityIcon from '/src/assets/humidity.png';
-import visibilityIcon from '/src/assets/visibility.png';
-import sunriseIcon from '/src/assets/sunrise.png';
-import sunsetIcon from '/src/assets/sunset.png';
+import windIcon from '/src/assets/Wind.png';           // Capital W
+import humidityIcon from '/src/assets/humidity.png';   // lowercase (matches)
+import visibilityIcon from '/src/assets/visibility.png'; // lowercase (matches)
+import sunriseIcon from '/src/assets/Sunrise.png';     // Capital S
+import sunsetIcon from '/src/assets/Sunset.png';       // Capital S
 
 const Icon = ({ src, alt, className }) => (
     <img src={src} alt={alt} className={`h-8 w-8 inline-block ${className}`} />
