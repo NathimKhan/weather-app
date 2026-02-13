@@ -26,15 +26,18 @@ A beautiful, responsive weather application with dynamic backgrounds, real-time 
 <div align="center">
 
 ### 🔍 Smart City Search
-https://Screenshots/Screenshot%25202026-02-13%2520180200.png
+<img width="1361" height="645" alt="Screenshot 2026-02-13 180200" src="https://github.com/user-attachments/assets/57c3a637-64eb-418f-9acc-37258bc12e3c" />
+
 *Intelligent search with minimum 3 letters input - clean and intuitive interface*
 
 ### 📋 Location Suggestions
-https://Screenshots/Screenshot%25202026-02-13%2520180220.png
+<img width="1363" height="648" alt="Screenshot 2026-02-13 180220" src="https://github.com/user-attachments/assets/ce2370a9-8907-4638-97b7-34813bc3f854" />
+
 Real-time location suggestions with country and region details for accurate selection
 
 ### 🌡️ Complete Weather Dashboard
-https://Screenshots/Screenshot%25202026-02-13%2520180238.png
+<img width="1364" height="653" alt="Screenshot 2026-02-13 180238" src="https://github.com/user-attachments/assets/0f9e0405-6778-41b3-90f6-089c4c7e6ed7" />
+
 Comprehensive weather display showing temperature, humidity, wind speed, visibility, sunrise/sunset times, feels like temperature, and atmospheric pressure
 
 </div>
